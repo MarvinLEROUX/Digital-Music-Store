@@ -8,9 +8,13 @@ Partie 2: Mise en oeuvre des vues sous SQLite
 ## Dans ce dossier 
 
 'Dossier DB' : Database Chinook
+
 'Dossier IMG' : Images relative au notebook
+
 'p1-exploration.ipynb' : Notebook exercices et requêtes SQL 
+
 'p2-vues-sql.ipynb' : Notebook exercies et requêtes SQL
+
 'README.MD'
 
 ## Pré-requis 
